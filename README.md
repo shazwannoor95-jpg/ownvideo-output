@@ -39,3 +39,9 @@ Durasi 6 minit 25 saat. Menggunakan narasi Ludo dan visual yang telah dibetulkan
 [▶️ Video baharu v005: 5 minit 51 saat](videos/pelantikan-pegawai-uitm/v005/pelantikan-pegawai-uitm-v005.mp4)
 
 Skrip, semua tujuh rakaman narasi Ludo, susunan penerangan, visual dan muzik baharu. H.264/AAC 720p30; semua 11 semakan teknikal lulus. Tiada sari kata. Sebutan disemak melalui transkripsi automatik; semakan pendengaran manusia masih pending.
+
+## v006 — latar putih
+
+[▶️ Video v006: 5 minit 51 saat](videos/pelantikan-pegawai-uitm/v006/pelantikan-pegawai-uitm-v006.mp4)
+
+Latar ditukar kepada putih, teks gelap dan aksen hijau lembut. Kandungan, narasi Ludo dan muzik v005 dikekalkan; hash aliran audio MP4 disahkan sama. Semua 11 semakan teknikal lulus. 720p30, H.264/AAC, tiada sari kata. Versi terdahulu dikekalkan.
