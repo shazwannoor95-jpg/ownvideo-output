@@ -33,3 +33,9 @@ Semua 11 semakan teknikal MP4 lulus. Versi v001 dan v002 dikekalkan; repo sumber
 [▶️ Buka / muat turun MP4 v004](videos/pelantikan-pegawai-uitm/v004/pelantikan-pegawai-uitm-v004.mp4)
 
 Durasi 6 minit 25 saat. Menggunakan narasi Ludo dan visual yang telah dibetulkan dalam v003, dengan susunan muzik korporat baharu untuk v004. Tiada teks sumber pada visual atau bacaan arahan sebutan yang terselit. Tiada sari kata. Semua 11 semakan teknikal MP4 lulus. Sebutan diperiksa melalui transkripsi automatik; semakan pendengaran manusia masih pending. Versi terdahulu dikekalkan.
+
+## v005 — video penuh siap
+
+[▶️ Video baharu v005: 5 minit 51 saat](videos/pelantikan-pegawai-uitm/v005/pelantikan-pegawai-uitm-v005.mp4)
+
+Skrip, semua tujuh rakaman narasi Ludo, susunan penerangan, visual dan muzik baharu. H.264/AAC 720p30; semua 11 semakan teknikal lulus. Tiada sari kata. Sebutan disemak melalui transkripsi automatik; semakan pendengaran manusia masih pending.

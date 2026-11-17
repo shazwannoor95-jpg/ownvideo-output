@@ -1,7 +1,9 @@
-# v005 — draf baharu
+# v005 — video penuh dengan narasi dan visual baharu
 
-Skrip baharu 733 perkataan dan 7 babak mengikut fungsi kerja. Visual biru gelap dan hijau pudina dengan tiga kad mendatar serta ringkasan tindakan. Susunan dan ayat narasi berbeza daripada v004.
+[▶️ Tonton / muat turun video penuh](pelantikan-pegawai-uitm-v005.mp4)
 
-Pratonton_Reka_Bentuk_v005.mp4 ialah pratonton visual 21 saat dengan muzik, bukan video penerangan siap. Contoh_Narasi_Baharu_v005.mp3 ialah rakaman Ludo baharu untuk pengenalan. Skrip penuh dan contact sheet turut disediakan.
+Durasi 5 minit 51 saat. Skrip baharu 733 perkataan dalam tujuh babak, disusun mengikut fungsi: pengurusan rekod, pengelasan dan pengelasan semula, pendaftaran rahsia, kemudian senarai semak tindakan. Semua tujuh rakaman Ludo dijana baharu. Visual biru gelap dan hijau pudina, kad mendatar dan ringkasan tindakan berbeza daripada v004. Muzik instrumental korporat dihasilkan khusus v005.
 
-Dua babak narasi baharu siap; baki lima terhalang oleh kuota harian Gemini TTS. Video penuh 5–7 minit belum siap. Sebutan belum disahkan melalui pendengaran manusia.
+MP4 H.264/AAC, 1280×720, 30fps, stereo. Tiada sari kata. Semakan teknikal, bingkai teks dan transkripsi automatik lulus. Transkripsi automatik tidak menggantikan semakan pendengaran manusia.
+
+Pratonton_Reka_Bentuk_v005.mp4 ialah pratonton visual awal 21 saat. Contoh_Narasi_Baharu_v005.mp3 ialah contoh pengenalan yang telah dijana ketika draf. Video penuh mengandungi semua babak dan muzik yang diselaraskan.
