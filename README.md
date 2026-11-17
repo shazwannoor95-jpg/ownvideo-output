@@ -53,3 +53,9 @@ Latar ditukar kepada putih, teks gelap dan aksen hijau lembut. Kandungan, narasi
 Logo asal Evolusi 7 Dekad ditambah di penjuru atas kanan, di sebelah kiri logo UiTM. Imej diambil daripada PDF `video-unit-konsultasi.pdf` yang tersimpan pada branch `video/pelantikan-dan-peranan-pegawai-pengurusan-rekod/v001` dalam repo ownvideo, commit `1986d3870292fb62d20cd2f6077e26ba3a2cbf04`, halaman pertama. Warna, nisbah dan ketelusan asal dikekalkan. Salinan PNG disertakan dalam folder v007.
 
 Latar putih dan aliran audio v006 dikekalkan; hash audio MP4 disahkan sama. Semakan nyahkod penuh, codec, durasi dan bilangan bingkai lulus. Repo ownvideo hanya dibaca; tiada fail atau branch di situ diubah oleh kerja ini. Video ini dimuat naik hanya ke ownvideo-output.
+
+## Projek khusus: storyboard yang dimuat naik
+
+[▶️ Pelantikan Pegawai — Full HD, 5:15](videos/uploaded-storyboard/v001/Pelantikan_Pegawai_Storyboard_v001.mp4)
+
+Dihasilkan daripada dua fail pengguna, dengan 9 babak, narasi Ludo baharu, latar putih dan logo UiTM / Evolusi 7 Dekad. Arahan fail digunakan khusus untuk projek ini.

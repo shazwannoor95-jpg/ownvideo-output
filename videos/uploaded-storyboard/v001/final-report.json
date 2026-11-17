@@ -1,0 +1,31 @@
+{
+  "checks": {
+    "FullHD": true,
+    "30fps": true,
+    "9450frames": true,
+    "duration315s": true,
+    "h264": true,
+    "aac": true,
+    "stereo48k": true,
+    "decode": true,
+    "loudness": true,
+    "peak": true
+  },
+  "duration_seconds": 315.0,
+  "sha256": "4b9b3df65891b7b20a30f7bc38ad60fbfac5a7756c1be02ed0216bf7b7c1e42f",
+  "audio_measurements": {
+    "input_i": "-16.03",
+    "input_tp": "-2.21",
+    "input_lra": "3.60",
+    "input_thresh": "-26.51",
+    "output_i": "-16.04",
+    "output_tp": "-1.71",
+    "output_lra": "3.50",
+    "output_thresh": "-26.51",
+    "normalization_type": "dynamic",
+    "target_offset": "0.04"
+  },
+  "human_listening_review": "pending",
+  "cue_timing": "visual cue timings follow uploaded storyboard; scene speech duration adjusted with pitch-preserving tempo",
+  "scope": "project only; original ownvideo repo unchanged"
+}
