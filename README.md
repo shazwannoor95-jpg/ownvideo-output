@@ -27,3 +27,9 @@ Versi v001 dikekalkan.
 Durasi 6 minit 25 saat. Bacaan arahan sebutan yang terselit dalam babak PTRJ, Pendaftar Rahsia dan Pendaftar Kecil Rahsia pada v002 dibuang melalui penjanaan semula narasi. Ejaan bunyi “Ar-kib Universiti” digunakan untuk sebutan Arkib Universiti. Visual diselaraskan kepada audio baharu. Suara sintetik Ludo, muzik korporat santai, tiada sari kata. Semua tujuh babak baharu diperiksa melalui transkripsi automatik; tiada bacaan arahan tambahan dikesan. Semakan pendengaran manusia masih pending.
 
 Semua 11 semakan teknikal MP4 lulus. Versi v001 dan v002 dikekalkan; repo sumber ownvideo tidak diubah oleh upload ini.
+
+## Versi baharu v004
+
+[▶️ Buka / muat turun MP4 v004](videos/pelantikan-pegawai-uitm/v004/pelantikan-pegawai-uitm-v004.mp4)
+
+Durasi 6 minit 25 saat. Menggunakan narasi Ludo dan visual yang telah dibetulkan dalam v003, dengan susunan muzik korporat baharu untuk v004. Tiada teks sumber pada visual atau bacaan arahan sebutan yang terselit. Tiada sari kata. Semua 11 semakan teknikal MP4 lulus. Sebutan diperiksa melalui transkripsi automatik; semakan pendengaran manusia masih pending. Versi terdahulu dikekalkan.
