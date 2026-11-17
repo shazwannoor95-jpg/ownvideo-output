@@ -1,0 +1,16 @@
+{
+  "checks": {
+    "h264": true,
+    "aac": true,
+    "720p": true,
+    "30fps": true,
+    "frame_count": true,
+    "duration_unchanged": true,
+    "audio_bitstream_unchanged": true,
+    "full_decode": true
+  },
+  "duration_seconds": 351.333333,
+  "sha256": "37bbb338a6edbf2d4bfc3f52069ac6f2e8fd8e38d81a0a4ea62fccad488b2e74",
+  "logo_source": "ownvideo @1986d3870292fb62d20cd2f6077e26ba3a2cbf04: videos/pelantikan-dan-peranan-pegawai-pengurusan-rekod/v001/source/video-unit-konsultasi.pdf, page 1, embedded image 328 and its original soft mask",
+  "source_repo_modified": false
+}

@@ -45,3 +45,11 @@ Skrip, semua tujuh rakaman narasi Ludo, susunan penerangan, visual dan muzik bah
 [▶️ Video v006: 5 minit 51 saat](videos/pelantikan-pegawai-uitm/v006/pelantikan-pegawai-uitm-v006.mp4)
 
 Latar ditukar kepada putih, teks gelap dan aksen hijau lembut. Kandungan, narasi Ludo dan muzik v005 dikekalkan; hash aliran audio MP4 disahkan sama. Semua 11 semakan teknikal lulus. 720p30, H.264/AAC, tiada sari kata. Versi terdahulu dikekalkan.
+
+## v007 — logo Evolusi 7 Dekad
+
+[▶️ Video v007: 5 minit 51 saat](videos/pelantikan-pegawai-uitm/v007/pelantikan-pegawai-uitm-v007.mp4)
+
+Logo asal Evolusi 7 Dekad ditambah di penjuru atas kanan, di sebelah kiri logo UiTM. Imej diambil daripada PDF `video-unit-konsultasi.pdf` yang tersimpan pada branch `video/pelantikan-dan-peranan-pegawai-pengurusan-rekod/v001` dalam repo ownvideo, commit `1986d3870292fb62d20cd2f6077e26ba3a2cbf04`, halaman pertama. Warna, nisbah dan ketelusan asal dikekalkan. Salinan PNG disertakan dalam folder v007.
+
+Latar putih dan aliran audio v006 dikekalkan; hash audio MP4 disahkan sama. Semakan nyahkod penuh, codec, durasi dan bilangan bingkai lulus. Repo ownvideo hanya dibaca; tiada fail atau branch di situ diubah oleh kerja ini. Video ini dimuat naik hanya ke ownvideo-output.
